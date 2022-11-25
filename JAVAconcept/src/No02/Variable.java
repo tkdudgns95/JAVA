@@ -16,7 +16,6 @@ public class Variable {
            변수는 할당된 메모리를 가리키는 이름
            int level = 10; // 4바이트 정수형 메모리가 level 이라는 이름으로 할당 됨
 		   
-		   
 		 * 
 		 */
 		int age, count;
