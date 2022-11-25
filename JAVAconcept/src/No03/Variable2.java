@@ -14,6 +14,7 @@ public class Variable2 {
 		 * 
 		 * 자바에서 실수의 기본 타입은 double을 사용한다.
 		 * 
+		 * 
 		 */
 		
 		double dnum = 3.14;
