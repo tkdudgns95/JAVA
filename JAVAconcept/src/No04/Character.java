@@ -25,6 +25,7 @@ public class Character {
 		 * 내부적으로 숫자로 표현되므로 숫자를 넣어도 문자가 출력될 수 있다.
 		 * char ch2 = 66;
 		 * 
+		 * 
 		 */
 		char ch1 = 'A';
 		System.out.println(ch1);
