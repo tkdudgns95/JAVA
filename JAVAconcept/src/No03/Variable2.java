@@ -13,6 +13,7 @@ public class Variable2 {
 		 * 항상 1임, 예) 0.2표현 0.4X2(-1승) 정규화 하면 1.6X2(-3승)
 		 * 
 		 * 자바에서 실수의 기본 타입은 double을 사용한다.
+		 * 
 		 */
 		
 		double dnum = 3.14;
