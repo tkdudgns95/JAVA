@@ -26,6 +26,7 @@ public class Character {
 		 * char ch2 = 66;
 		 * 
 		 * 
+		 * 
 		 */
 		char ch1 = 'A';
 		System.out.println(ch1);
