@@ -1,4 +1,4 @@
-package  No17;
+package No17;
 
 public class StudentTest {
 
